@@ -9,7 +9,7 @@
 
 <b> After Defer Offscreen Images </b>
 
-<img src="images/After.png" height="400" width="400">
+<img src="images/After.png" height="500" width="500">
 
 
 
