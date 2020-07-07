@@ -1,5 +1,18 @@
 # Defer Offscreen Images | How to improve website speed ?
 
+
+
+<b> After Defer Offscreen Images </b>
+
+<img src="images/After.png" height="100" width="100">
+
+<b>Before Defer Offscreen Images</b>
+
+<img src="images/Before.png" height="100" width="100">
+
+
+
+
 ## First create simple Gallery images wesite in HTML and check Google speed testing 
 
 https://developers.google.com/speed/pagespeed/insights/
@@ -18,7 +31,3 @@ https://developers.google.com/speed/pagespeed/insights/
 ```
     <img data-src="image.jpg" class="lazyload"/>
 ```
-<b> After Defer Offscreen Images </b>
-<img src="images/After.png" height="100" width="100">
-<b>Before Defer Offscreen Images</b>
-<img src="images/Before.png" height="100" width="100">
