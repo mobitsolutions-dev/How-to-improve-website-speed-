@@ -5,7 +5,7 @@
 https://developers.google.com/speed/pagespeed/insights/
 
 
-<img src="images/after.png">
+<img src="images/After.png">
 <img src="images/Before.png">
 
 <b> 1) Download the lazysizes Javascript library . Once download ,include it in your page through following script tag :</b>
