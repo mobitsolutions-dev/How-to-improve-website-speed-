@@ -1,10 +1,14 @@
 # How to improve website speed ?
-    
+
+## First create simple Gallery images wesite in HTML and check Google speed testing 
+
+https://developers.google.com/speed/pagespeed/insights/
+
 <b> 1) Download the lazysizes Javascript library . Once download ,include it in your page through following script tag :</b>
 ```
      <script src="lazysizes.min.js" async=""></script>
 ```
-###### 2) within your HTML ```<img> tag:```
+<b> 2) within your HTML ```<img> tag:``` </b>
 
 * Add class="lazyload" attribute to all images
 * Change the src attribute to data-src
