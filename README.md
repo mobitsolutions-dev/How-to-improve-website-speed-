@@ -4,11 +4,11 @@
 
 <b> After Defer Offscreen Images </b>
 
-<img src="images/After.png" height="100" width="100">
+<img src="images/After.png" height="200" width="200">
 
 <b>Before Defer Offscreen Images</b>
 
-<img src="images/Before.png" height="100" width="100">
+<img src="images/Before.png" height="200" width="200">
 
 
 
