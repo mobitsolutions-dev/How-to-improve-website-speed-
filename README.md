@@ -13,5 +13,3 @@
 ```
     <img data-src="image.jpg" class="lazyload"/>
 ```
-![Before](https://user-images.githubusercontent.com/67701415/86772382-58159880-c06d-11ea-87d2-a10f5567ba2c.png)
-![After](https://user-images.githubusercontent.com/67701415/86772390-5b108900-c06d-11ea-8182-bead6102c675.png)
