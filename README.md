@@ -1,5 +1,5 @@
 # Defer Offscreen Images | How to improve website speed ?
-<img  src="images/1.PNG"  heigth="200" width="200">
+<img  src="images/Before.png"  heigth="200" width="200">
 
 ## First create simple Gallery images wesite in HTML and check Google speed testing 
 
