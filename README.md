@@ -19,7 +19,8 @@ https://developers.google.com/speed/pagespeed/insights/
 ```
     <img data-src="image.jpg" class="lazyload"/>
 ```
-<b>Before Defer Offscreen Images website speed</b><img style="float:left;" src="images/Before.png" height="500" width="500">
+###### <b>Before Defer Offscreen Images website speed</b>
+<img style="float:left;" src="images/Before.png" height="500" width="500">
 
 <b> After Defer Offscreen Images website speed</b>
 
