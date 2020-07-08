@@ -1,9 +1,10 @@
 # Defer Offscreen Images | How to improve website speed ?
-
+<img  src="images/1.PNG"  heigth="200" width="200">
 
 ## First create simple Gallery images wesite in HTML and check Google speed testing 
 
 https://developers.google.com/speed/pagespeed/insights/
+
 
 
 <b> 1) Download the lazysizes Javascript library . Once download ,include it in your page through following script tag :</b>
