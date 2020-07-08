@@ -23,8 +23,4 @@ https://developers.google.com/speed/pagespeed/insights/
 
 <b>Before Defer Offscreen Images website speed</b>
 
-<img style="float:left;" src="images/Before.png" >
-
-<b> After Defer Offscreen Images website speed</b>
-
-<img src="images/After.png" >
+<img src="images/Before.png" ><img src="images/After.png" >
